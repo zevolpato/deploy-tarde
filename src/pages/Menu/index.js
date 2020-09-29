@@ -8,7 +8,7 @@ export default function Menu() {
   return (
       <>
       <section>
-          <span><FaLaptop size={150} /></span>
+          <span><FaLaptop size={150} color="#e02041" /></span>
           
           <span className="style-span-ul">
           <ul>
@@ -19,8 +19,8 @@ export default function Menu() {
           </ul>
           
           <form>
-          <input placeholder="Sua Id"/>
-          <button className="style-button" type="submit">Entrar</button>  
+          <input placeholder="Login"/>
+          <button className="style-button" type="button">Entrar</button>  
           </form>
           </span>
       </section>
