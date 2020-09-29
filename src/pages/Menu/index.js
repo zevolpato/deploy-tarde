@@ -8,7 +8,7 @@ export default function Menu() {
   return (
       <>
       <section>
-          <span><FaLaptop size={150} color="#e02041" /></span>
+          <span><FaLaptop size={130} color="#e02041" /></span>
           
           <span className="style-span-ul">
           <ul>

@@ -20,7 +20,7 @@ ul{
 li{
     list-style: none;
     padding: 0 20px ;
-    font: 500 18px Roboto, sans-serif;
+    font: 500 14px Roboto, sans-serif;
     margin-top: 20px;
     transition: color 0.8s;
     text-transform: uppercase;
