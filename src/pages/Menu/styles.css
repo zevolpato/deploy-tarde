@@ -3,6 +3,9 @@ section{
     justify-content: space-between;
     align-items: center;
     margin: 0 5%;
+    margin-top: 20px;
+    background-color: rgb(238, 238, 238);
+    padding: 0 20px;
 }
 
 .style-span-ul{
