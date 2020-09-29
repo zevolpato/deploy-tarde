@@ -3,13 +3,11 @@ import React from 'react';
 import './styles.css';
 
 import Menu from '../Menu';
-
-export default function Home() {
+export default function Quemsomos() {
   return (
       <>
       <Menu />
-      <h1>Home</h1>
-      
+      <h1>Quem sou eu....</h1>
       </>
     );
 }

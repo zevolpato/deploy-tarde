@@ -4,12 +4,11 @@ import './styles.css';
 
 import Menu from '../Menu';
 
-export default function Main() {
+export default function Ajuda() {
   return (
-    <>
-    <Menu />
-    
-      <h1>Main</h1>
-    </>  
+      <>
+      <Menu />
+      <h1>Ajuda</h1>
+      </>
     );
 }
